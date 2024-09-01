@@ -15,6 +15,10 @@ https://docs.google.com/spreadsheets/d/1itUaLOwN8U-ldt7ZHBf0SfRjgWGmMog7KDNe5z_r
 
 BOM 300mm [here](./CAD/SimpleCore%20MK1%20300mm%20BOM.xlsx)
 
+CAD can't be uploaded to GitHub, here is the Fusion360 link:
+https://a360.co/4cKcVhP
+EVA3 Toolhead for mockup included.
+
 Rolohaun's Patreon
 https://www.patreon.com/rolohaun
 
